@@ -4,7 +4,7 @@ import router from './router/index.js'
 
 // Constants
 const isProduction = process.env.NODE_ENV === 'production'
-const port = process.env.PORT || 5173
+const port = 5101
 const base = process.env.BASE || '/'
 
 

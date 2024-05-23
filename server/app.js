@@ -1,10 +1,12 @@
 import fs from 'node:fs/promises'
 import express from 'express'
+import router from './router/index.js'
 
 // Constants
 const isProduction = process.env.NODE_ENV === 'production'
 const port = process.env.PORT || 5173
 const base = process.env.BASE || '/'
+
 
 // Cached production assets
 const templateHtml = isProduction
@@ -16,6 +18,8 @@ const ssrManifest = isProduction
 
 // Create http server
 const app = express()
+
+app.use(router)
 
 // Add Vite or respective production middlewares
 let vite
@@ -48,7 +52,7 @@ app.use('*', async (req, res) => {
       render = (await vite.ssrLoadModule('/src/entry-server.ts')).render
     } else {
       template = templateHtml
-      render = (await import('./dist/server/entry-server.js')).render
+      render = (await import('../dist/server/entry-server.js')).render
     }
 
     const { stream } = render(url, ssrManifest)

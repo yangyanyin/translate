@@ -1,296 +1,434 @@
 {
   "\u0000/Users/yangyanyin/yang/translate/node_modules/call-bind/index.js?commonjs-module": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "\u0000__vite-browser-external?commonjs-proxy": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "\u0000commonjsHelpers.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "\u0000plugin-vue:export-helper": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "\u0000vite/modulepreload-polyfill.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "__vite-browser-external": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "index.html": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/adapters/adapters.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/adapters/fetch.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/adapters/xhr.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/axios.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/cancel/CancelToken.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/cancel/CanceledError.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/cancel/isCancel.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/core/Axios.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/core/AxiosError.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/core/AxiosHeaders.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/core/InterceptorManager.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/core/buildFullPath.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/core/dispatchRequest.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/core/mergeConfig.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/core/settle.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/core/transformData.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/defaults/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/defaults/transitional.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/env/data.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/AxiosURLSearchParams.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/HttpStatusCode.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/bind.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/buildURL.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/combineURLs.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/composeSignals.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/cookies.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/formDataToJSON.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/isAbsoluteURL.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/isAxiosError.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/isURLSameOrigin.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/null.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/parseHeaders.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/parseProtocol.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/progressEventReducer.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/resolveConfig.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/speedometer.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/spread.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/throttle.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/toFormData.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/toURLEncodedForm.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/trackStream.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/helpers/validator.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/platform/browser/classes/Blob.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/platform/browser/classes/FormData.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/platform/browser/classes/URLSearchParams.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/platform/browser/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/platform/common/utils.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/platform/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/axios/lib/utils.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/call-bind/callBound.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/call-bind/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/define-data-property/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/es-define-property/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/es-errors/eval.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/es-errors/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/es-errors/range.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/es-errors/ref.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/es-errors/syntax.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/es-errors/type.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/es-errors/uri.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/function-bind/implementation.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/function-bind/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/get-intrinsic/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/gopd/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/has-property-descriptors/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/has-proto/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/has-symbols/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/has-symbols/shams.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/hasown/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/object-inspect/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/qs/lib/formats.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/qs/lib/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/qs/lib/parse.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/qs/lib/stringify.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/qs/lib/utils.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/set-function-length/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "node_modules/side-channel/index.js": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "src/App.vue": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
-  "src/App.vue?vue&type=style&index=0&scoped=1c543141&lang.less": [
-    "/assets/google-BP_lS3tM.png"
+  "src/App.vue?vue&type=style&index=0&scoped=7b69c9a1&lang.less": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "src/api/api.ts": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "src/api/index.ts": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "src/assets/images/google.png": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
+  ],
+  "src/assets/images/lang-list.png": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
+  ],
+  "src/assets/images/translate-foreign.png": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
+  ],
+  "src/components/Header.vue": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
+  ],
+  "src/components/Header.vue?vue&type=style&index=0&scoped=75a09e7e&lang.less": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
+  ],
+  "src/components/Sidebar.vue": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
+  ],
+  "src/components/Sidebar.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
+  ],
+  "src/components/Sidebar.vue?vue&type=style&index=0&scoped=e39a403f&lang.less": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
+  ],
+  "src/components/TranslateResult.vue": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
+  ],
+  "src/components/TranslateResult.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
+  ],
+  "src/components/TranslateResult.vue?vue&type=style&index=0&scoped=3d5c7b44&lang.less": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "src/config/langs.ts": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "src/entry-client.ts": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
   "src/main.ts": [
-    "/assets/google-BP_lS3tM.png"
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ],
-  "src/style.css": [
-    "/assets/google-BP_lS3tM.png"
+  "src/style.less": [
+    "/assets/google-BP_lS3tM.png",
+    "/assets/lang-list-C9E_60Gc.png"
   ]
 }

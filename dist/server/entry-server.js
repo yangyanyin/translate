@@ -1,5 +1,5 @@
-import { ssrRenderAttrs, ssrRenderList, ssrInterpolate, ssrRenderAttr, ssrRenderClass, ssrRenderComponent, renderToWebStream } from "vue/server-renderer";
-import { defineComponent, mergeProps, useSSRContext, unref, ref, onMounted, createSSRApp } from "vue";
+import { ssrRenderList, ssrInterpolate, ssrRenderAttrs, ssrRenderAttr, ssrRenderClass, ssrRenderComponent, renderToWebStream } from "vue/server-renderer";
+import { defineComponent, useSSRContext, mergeProps, unref, ref, onMounted, createSSRApp } from "vue";
 import axios from "axios";
 import "qs";
 axios.defaults.baseURL = "/";
@@ -39,15 +39,17 @@ const _sfc_main$3 = /* @__PURE__ */ defineComponent({
   },
   setup(__props) {
     return (_ctx, _push, _parent, _attrs) => {
+      _push(`<!--[--><p class="tips" data-v-8edd4ddc>点击行可直接复制！</p>`);
       if (_ctx.translateResult.length > 0) {
-        _push(`<ul${ssrRenderAttrs(mergeProps({ class: "result" }, _attrs))} data-v-3d5c7b44><li class="title" data-v-3d5c7b44><span class="code" data-v-3d5c7b44>语言</span><span class="text" data-v-3d5c7b44>翻译结果</span></li><!--[-->`);
+        _push(`<ul class="result" data-v-8edd4ddc><li class="title" data-v-8edd4ddc><span class="code" data-v-8edd4ddc>语言</span><span class="text" data-v-8edd4ddc>翻译结果</span></li><!--[-->`);
         ssrRenderList(_ctx.translateResult, (item, k) => {
-          _push(`<li data-v-3d5c7b44><span class="code" data-v-3d5c7b44>${ssrInterpolate(item.code)}</span><span class="text" data-v-3d5c7b44>${ssrInterpolate(item.text)} <button data-v-3d5c7b44>COPY</button></span></li>`);
+          _push(`<li data-v-8edd4ddc><span class="code" data-v-8edd4ddc>${ssrInterpolate(item.code)}</span><span class="text" data-v-8edd4ddc>${ssrInterpolate(item.text)}</span></li>`);
         });
         _push(`<!--]--></ul>`);
       } else {
         _push(`<!---->`);
       }
+      _push(`<!--]-->`);
     };
   }
 });
@@ -64,7 +66,7 @@ _sfc_main$3.setup = (props, ctx) => {
   (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("src/components/TranslateResult.vue");
   return _sfc_setup$3 ? _sfc_setup$3(props, ctx) : void 0;
 };
-const TranslateResult = /* @__PURE__ */ _export_sfc(_sfc_main$3, [["__scopeId", "data-v-3d5c7b44"]]);
+const TranslateResult = /* @__PURE__ */ _export_sfc(_sfc_main$3, [["__scopeId", "data-v-8edd4ddc"]]);
 const _imports_0$1 = "/assets/google-BP_lS3tM.png";
 const _sfc_main$2 = {};
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs) {

@@ -8,8 +8,9 @@
         :class="{'select': openLangs.includes(item.code)}"
         @click="$emit('changeOpenLangs', item.code)"
         >
+        <img v-if="openLangs.includes(item.code)" src="../assets/images/selected.png">
+        <img v-else src="../assets/images/unselected.png">
         {{ item.lang }}
-        <img v-if="openLangs.includes(item.code)" src="../assets/images/translate-foreign.png">
       </li>
     </ul>
   </div>
@@ -43,23 +44,30 @@ defineProps<{ openLangs: Array<any> }>()
     }
   }
   ul {
-    margin-top: 12px;
-    padding: 0 12px;
+    padding: 12px 12px 50px;
+    height: calc(100% - 65px);
+    overflow: auto;
     li {
       position: relative;
       display: flex;
+      gap: 0 10px;
       align-items: center;
-      justify-content: space-between;
+      // justify-content: space-between;
       padding: 4px 10px;
       line-height: 28px;
       font-size: 14px;
+      color: #666;
       cursor: pointer;
-      &.select {
-        color: #1196db;
+      &:hover, &.select {
+        color: #222;
+        img {
+          opacity: 1;
+        }
       }
       img {
         display: block;
         width: 20px;
+        opacity: .5;
       }
 
     }

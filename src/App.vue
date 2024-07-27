@@ -103,7 +103,7 @@ onMounted(() => {})
   font-size: 14px;
   border-radius: 3px;
   text-align: center;
-  background: #6d9eeb;
+  background: #ea4235;
   color: #fff;
   cursor: pointer;
   padding: 0;

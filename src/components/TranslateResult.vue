@@ -5,40 +5,31 @@
       <span class="code">语言</span>
       <span class="text">翻译结果</span>
     </li>
-    <li v-for="(item, k) in translateResult" :key="k" @click="copyClick(item.text)">
-      <span class="code">{{ item.code }}</span>
-      <span class="text">{{ item.text }}</span>
-    </li>
+    <TranslateResultItem v-for="(item, k) in translateResult" :key="k" :item="item" />
   </ul>
 </template>
 <script lang="ts" setup>
+import TranslateResultItem from './TranslateResultItem.vue'
 defineProps<{ translateResult: Array<any> }>()
-
-const copyClick = (text:string) => {
-  const textArea:any = document.createElement('textArea')
-  textArea.value = text
-  document.body.appendChild(textArea)
-  textArea.select()
-  document.execCommand('copy')
-  document.body.removeChild(textArea)
-}
 </script>
 <style scoped lang="less">
 .tips {
   margin-top: 50px;
-  font-size: 14px;
-  color: #0053d7;
+  font-size: 12px;
+  color: #ea4235;
 }
 .result {
   margin-top: 10px;
   border: 1px solid #ddd;
   border-bottom: none;
-  li {
+  li, :deep(.content) {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     position: relative;
     border-bottom: 1px solid #ddd;
-    padding-left: 100px;
+    padding: 0 14px 0 100px;
     font-size: 14px;
-    height: 40px;
     cursor: pointer;
     &:hover {
       background: #ececec;
@@ -51,7 +42,7 @@ const copyClick = (text:string) => {
     }
     span {
       display: inline-block;
-      padding: 0 10px;
+      padding: 10px;
     }
     .code {
       position: absolute;
@@ -63,24 +54,15 @@ const copyClick = (text:string) => {
       transform: translateY(-50%);
     }
     .text {
+      display: flex;
       width: calc(100% - 100px);
-      line-height: 40px;
+      line-height: 22px;
     }
-    // button {
-    //   position: absolute;
-    //   top: 6px;
-    //   right: 10px;
-    //   height: 28px;
-    //   width: 50px;
-    //   cursor: pointer;
-    //   background: #6d9eeb;
-    //   color: #fff;
-    //   border-radius: 4px;
-    //   box-shadow: 1px 1px 2px #000;
-    //   &:active {
-    //     box-shadow: 2px 2px 3px #000;
-    //   }
-    // }
+    img {
+      display: block;
+      width: 20px;
+      height: 20px;
+    }
   }
 }
 </style>

@@ -60,7 +60,7 @@ export default [
     code: 'th'
   },
   {
-    lang: '希伯来语(iw|he)',
-    code: 'iw'
+    lang: '希伯来语(he)',
+    code: 'he'
   }
 ]

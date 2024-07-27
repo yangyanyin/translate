@@ -16,6 +16,7 @@
     "compression": "^1.7.4",
     "express": "^4.19.2",
     "google-translate-api": "^2.3.0",
+    "google-translate-api-x": "^10.6.8",
     "sirv": "^2.0.4",
     "vue": "^3.4.23"
   },

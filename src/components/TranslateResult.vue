@@ -14,14 +14,19 @@ defineProps<{ translateResult: Array<any> }>()
 </script>
 <style scoped lang="less">
 .tips {
-  margin-top: 50px;
+  margin-top: 17px;
   font-size: 12px;
   color: #ea4235;
 }
 .result {
+  height: calc(100vh - 400px);
   margin-top: 10px;
   border: 1px solid #ddd;
   border-bottom: none;
+  box-shadow: 0 0 12px #dfdfdf;
+  background: #fff;
+  overflow: auto;
+  border-radius: 5px;
   li, :deep(.content) {
     display: flex;
     justify-content: space-between;

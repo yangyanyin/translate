@@ -72,7 +72,7 @@ onMounted(() => {})
 <style scoped lang="less">
 .main {
   margin: auto;
-  padding: 0 40px 0 240px;
+  padding: 0 40px 0 270px;
   .content {
     max-width: 900px;
     margin: auto;
@@ -85,7 +85,7 @@ onMounted(() => {})
     font-size: 16px;
     font-family: auto;
     color: #444;
-    border: 1px solid #444;
+    box-shadow: 0px 0px 12px #dfdfdf;
     border-radius: 5px;
     &.remind {
       border-color: #f1435a;

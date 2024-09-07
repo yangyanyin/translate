@@ -24,12 +24,15 @@ defineProps<{ openLangs: Array<any> }>()
 
 .side-bar {
   position: fixed;
-  left: 0;
-  top: 0;
-  width: 200px;
+  left: 10px;
+  top: 10px;
+  bottom: 10px;
+  width: 220px;
   text-align: left;
-  background: #f6f6f7;
-  height: 100%;
+  background: #ffffff;
+  box-shadow: 0px 0px 12px #dfdfdf;
+  border-radius: 4px;
+  
   span {
     display: flex;
     align-items: center;

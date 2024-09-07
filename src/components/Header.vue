@@ -7,7 +7,7 @@
 <style scoped lang="less">
 header {
   display: flex;
-  padding: 30px 0;
+  padding: 20px 0;
   justify-content: center;
   line-height: 40px;
   img {

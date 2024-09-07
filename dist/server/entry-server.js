@@ -190,13 +190,13 @@ const _sfc_main$1 = /* @__PURE__ */ defineComponent({
   },
   setup(__props) {
     return (_ctx, _push, _parent, _attrs) => {
-      _push(`<div${ssrRenderAttrs(mergeProps({ class: "side-bar" }, _attrs))} data-v-33802d54><span data-v-33802d54><img${ssrRenderAttr("src", _imports_0)} alt="Langs" data-v-33802d54> 支持语言列表</span><ul data-v-33802d54><!--[-->`);
+      _push(`<div${ssrRenderAttrs(mergeProps({ class: "side-bar" }, _attrs))} data-v-a5d7f261><span data-v-a5d7f261><img${ssrRenderAttr("src", _imports_0)} alt="Langs" data-v-a5d7f261> 支持语言列表</span><ul data-v-a5d7f261><!--[-->`);
       ssrRenderList(unref(langs), (item, k) => {
-        _push(`<li class="${ssrRenderClass({ "select": _ctx.openLangs.includes(item.code) })}" data-v-33802d54>`);
+        _push(`<li class="${ssrRenderClass({ "select": _ctx.openLangs.includes(item.code) })}" data-v-a5d7f261>`);
         if (_ctx.openLangs.includes(item.code)) {
-          _push(`<img${ssrRenderAttr("src", _imports_1)} data-v-33802d54>`);
+          _push(`<img${ssrRenderAttr("src", _imports_1)} data-v-a5d7f261>`);
         } else {
-          _push(`<img${ssrRenderAttr("src", _imports_2)} data-v-33802d54>`);
+          _push(`<img${ssrRenderAttr("src", _imports_2)} data-v-a5d7f261>`);
         }
         _push(` ${ssrInterpolate(item.lang)}</li>`);
       });
@@ -210,7 +210,7 @@ _sfc_main$1.setup = (props, ctx) => {
   (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("src/components/Sidebar.vue");
   return _sfc_setup$1 ? _sfc_setup$1(props, ctx) : void 0;
 };
-const Sidebar = /* @__PURE__ */ _export_sfc(_sfc_main$1, [["__scopeId", "data-v-33802d54"]]);
+const Sidebar = /* @__PURE__ */ _export_sfc(_sfc_main$1, [["__scopeId", "data-v-a5d7f261"]]);
 const _sfc_main = /* @__PURE__ */ defineComponent({
   __name: "App",
   __ssrInlineRender: true,

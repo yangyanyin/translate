@@ -21,6 +21,7 @@ defineProps<{ openLangs: Array<any> }>()
 
 </script>
 <style scoped lang="less">
+
 .side-bar {
   position: fixed;
   left: 0;

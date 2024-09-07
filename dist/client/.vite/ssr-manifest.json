@@ -269,7 +269,7 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/google-BP_lS3tM.png"
   ],
-  "src/App.vue?vue&type=style&index=0&scoped=e6b9e6a3&lang.less": [
+  "src/App.vue?vue&type=style&index=0&scoped=15b72c78&lang.less": [
     "/assets/google-BP_lS3tM.png"
   ],
   "src/api/api.ts": [
@@ -296,7 +296,7 @@
   "src/components/Header.vue": [
     "/assets/google-BP_lS3tM.png"
   ],
-  "src/components/Header.vue?vue&type=style&index=0&scoped=75a09e7e&lang.less": [
+  "src/components/Header.vue?vue&type=style&index=0&scoped=9796c15b&lang.less": [
     "/assets/google-BP_lS3tM.png"
   ],
   "src/components/Sidebar.vue": [
@@ -305,7 +305,7 @@
   "src/components/Sidebar.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/google-BP_lS3tM.png"
   ],
-  "src/components/Sidebar.vue?vue&type=style&index=0&scoped=a5d7f261&lang.less": [
+  "src/components/Sidebar.vue?vue&type=style&index=0&scoped=d238dc3b&lang.less": [
     "/assets/google-BP_lS3tM.png"
   ],
   "src/components/TranslateResult.vue": [
@@ -314,7 +314,7 @@
   "src/components/TranslateResult.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/google-BP_lS3tM.png"
   ],
-  "src/components/TranslateResult.vue?vue&type=style&index=0&scoped=862134a8&lang.less": [
+  "src/components/TranslateResult.vue?vue&type=style&index=0&scoped=ec2641c1&lang.less": [
     "/assets/google-BP_lS3tM.png"
   ],
   "src/components/TranslateResultItem.vue": [

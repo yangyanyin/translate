@@ -87,6 +87,7 @@ onMounted(() => {})
     color: #444;
     box-shadow: 0px 0px 12px #dfdfdf;
     border-radius: 5px;
+    background: #fff;
     &.remind {
       border-color: #f1435a;
     }

@@ -269,7 +269,7 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/google-BP_lS3tM.png"
   ],
-  "src/App.vue?vue&type=style&index=0&scoped=15b72c78&lang.less": [
+  "src/App.vue?vue&type=style&index=0&scoped=61d1a7df&lang.less": [
     "/assets/google-BP_lS3tM.png"
   ],
   "src/api/api.ts": [
@@ -314,7 +314,7 @@
   "src/components/TranslateResult.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/google-BP_lS3tM.png"
   ],
-  "src/components/TranslateResult.vue?vue&type=style&index=0&scoped=ec2641c1&lang.less": [
+  "src/components/TranslateResult.vue?vue&type=style&index=0&scoped=a47879b8&lang.less": [
     "/assets/google-BP_lS3tM.png"
   ],
   "src/components/TranslateResultItem.vue": [

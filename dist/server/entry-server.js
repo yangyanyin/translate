@@ -77,9 +77,9 @@ const _sfc_main$3 = /* @__PURE__ */ defineComponent({
   },
   setup(__props) {
     return (_ctx, _push, _parent, _attrs) => {
-      _push(`<!--[--><p class="tips" data-v-ec2641c1>点击行可直接复制！</p>`);
+      _push(`<!--[--><p class="tips" data-v-a47879b8>点击行可直接复制！</p>`);
       if (_ctx.translateResult.length > 0) {
-        _push(`<ul class="result" data-v-ec2641c1><li class="title" data-v-ec2641c1><span class="code" data-v-ec2641c1>语言</span><span class="text" data-v-ec2641c1>翻译结果</span></li><!--[-->`);
+        _push(`<ul class="result" data-v-a47879b8><li class="title" data-v-a47879b8><span class="code" data-v-a47879b8>语言</span><span class="text" data-v-a47879b8>翻译结果</span></li><!--[-->`);
         ssrRenderList(_ctx.translateResult, (item, k) => {
           _push(ssrRenderComponent(TranslateResultItem, {
             key: k,
@@ -100,7 +100,7 @@ _sfc_main$3.setup = (props, ctx) => {
   (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("src/components/TranslateResult.vue");
   return _sfc_setup$3 ? _sfc_setup$3(props, ctx) : void 0;
 };
-const TranslateResult = /* @__PURE__ */ _export_sfc(_sfc_main$3, [["__scopeId", "data-v-ec2641c1"]]);
+const TranslateResult = /* @__PURE__ */ _export_sfc(_sfc_main$3, [["__scopeId", "data-v-a47879b8"]]);
 const _imports_0$1 = "/assets/google-BP_lS3tM.png";
 const _sfc_main$2 = {};
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs) {
@@ -236,11 +236,11 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
         onChangeOpenLangs: changeOpenLangs,
         openLangs: openLangs.value
       }, null, _parent));
-      _push(`<div class="main" data-v-15b72c78><div class="content" data-v-15b72c78>`);
+      _push(`<div class="main" data-v-61d1a7df><div class="content" data-v-61d1a7df>`);
       _push(ssrRenderComponent(Header, null, null, _parent));
-      _push(`<textarea class="${ssrRenderClass([{ remind: remind.value }, "textarea"])}" data-v-15b72c78>${ssrInterpolate(translateText.value)}</textarea><button class="${ssrRenderClass([{ load: loading.value }, "btn"])}" data-v-15b72c78>`);
+      _push(`<textarea class="${ssrRenderClass([{ remind: remind.value }, "textarea"])}" data-v-61d1a7df>${ssrInterpolate(translateText.value)}</textarea><button class="${ssrRenderClass([{ load: loading.value }, "btn"])}" data-v-61d1a7df>`);
       if (loading.value) {
-        _push(`<span data-v-15b72c78></span>`);
+        _push(`<span data-v-61d1a7df></span>`);
       } else {
         _push(`<!--[-->翻译<!--]-->`);
       }
@@ -260,7 +260,7 @@ _sfc_main.setup = (props, ctx) => {
   (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("src/App.vue");
   return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
 };
-const App = /* @__PURE__ */ _export_sfc(_sfc_main, [["__scopeId", "data-v-15b72c78"]]);
+const App = /* @__PURE__ */ _export_sfc(_sfc_main, [["__scopeId", "data-v-61d1a7df"]]);
 function createApp() {
   const app = createSSRApp(App);
   return { app };

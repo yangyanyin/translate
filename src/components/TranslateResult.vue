@@ -36,6 +36,7 @@ defineProps<{ translateResult: Array<any> }>()
     padding: 0 14px 0 100px;
     font-size: 14px;
     cursor: pointer;
+    color: #000000;
     &:hover {
       background: #ececec;
     }
